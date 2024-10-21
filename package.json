@@ -9,10 +9,23 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@aws-sdk/s3-request-presigner": "^3.670.0",
+    "@react-native-async-storage/async-storage": "1.23.1",
+    "@react-navigation/material-top-tabs": "^6.6.14",
+    "@react-navigation/native": "^6.1.18",
+    "@react-navigation/stack": "^6.4.1",
+    "aws-sdk": "^2.1691.0",
     "expo": "~51.0.28",
+    "expo-av": "^14.0.7",
+    "expo-permissions": "^14.4.0",
+    "expo-sharing": "^12.0.1",
     "expo-status-bar": "~1.12.1",
     "react": "18.2.0",
-    "react-native": "0.74.5"
+    "react-native": "0.74.5",
+    "react-native-gesture-handler": "~2.16.1",
+    "react-native-pager-view": "6.3.0",
+    "react-native-tab-view": "^3.5.2",
+    "react-native-vector-icons": "^10.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
